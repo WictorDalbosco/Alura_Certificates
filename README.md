@@ -1,2 +1,2 @@
-# Alura_Certificates
+# Alura Certificates
 Repository for my Alura Certifications
